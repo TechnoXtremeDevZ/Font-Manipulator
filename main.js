@@ -2,7 +2,7 @@ var nose_x = 0;
 var nose_y = 0;
 var leftWrist = 0;
 var rightWrist = 0;
-var FontSize;
+var FontSize = 0;
 
 function setup() {
     canvas = createCanvas(500, 500);
